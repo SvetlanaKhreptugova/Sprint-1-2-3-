@@ -59,7 +59,7 @@ _______________________________________________________________________
 # Тесты
 
 
-![image] (https://github.com/SvetlanaKhreptugova/Sprint-1-2-3-/blob/main/257521889-80323d7b-93a0-4324-96e8-58ffdcfb2819)
+![Screnshot] (https://github.com/SvetlanaKhreptugova/Sprint-1-2-3-/blob/main/257521889-80323d7b-93a0-4324-96e8-58ffdcfb2819.png)
 
 
 P.S. Когда велась работа по спринтам 2 и 3, в связи системной ошибки во время тестирования приложение было переименованно из Pass в Pereval.
